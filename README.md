@@ -125,8 +125,8 @@ button {
 }
 ```
 ## OUTPUT
-<img width="887" height="586" alt="image" src="https://github.com/user-attachments/assets/87babd63-8c07-4819-9617-6d7776825ffa" />
-<img width="910" height="593" alt="image" src="https://github.com/user-attachments/assets/573f7f7a-124d-4cb1-9545-6c8571b4c7fa" />
+<img width="1168" height="397" alt="image" src="https://github.com/user-attachments/assets/4577b4f7-41f1-4e58-a91f-7d1a6a769b80" />
+
 
 ## RESULT
 ### Thus, the React form validation was successfully implemented using useState(), onChange, and onSubmit. The application successfully validated required fields, email format, and password length, and displayed appropriate error messages for invalid inputs.
